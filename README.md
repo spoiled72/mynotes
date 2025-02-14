@@ -17,7 +17,7 @@
 - 0900 [Math 1162](https://learn.georgebrown.ca/d2l/le/content/331954/Home)
 ### Thursday
 - 0700 [Math 1162](https://learn.georgebrown.ca/d2l/le/content/331954/Home)
-- 1200 [Comp1234 - Intro To Web Developement(https://learn.georgebrown.ca/d2l/le/content/342901/Home)
+- 1200 [Comp1234 - Intro To Web Developement](https://learn.georgebrown.ca/d2l/le/content/342901/Home)
 ### Friday
 - 0700 [Comp1236 - Fund of Comp Logic](https://learn.georgebrown.ca/d2l/le/content/337951/Home)
 - 1200 [comp1238 - Data Management](https://learn.georgebrown.ca/d2l/le/content/334969/Home)
