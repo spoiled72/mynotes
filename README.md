@@ -13,10 +13,10 @@ Tuesday
 - 1300 [comp1238](https://learn.georgebrown.ca/d2l/home/334969)
 - 1500 [Comp 1151](https://learn.georgebrown.ca/d2l/home/335101)
 Wednesday
-- 0600 [Comp 1151] (https://learn.georgebrown.ca/d2l/home/335101)
-- 0900 [Math 1162] (https://learn.georgebrown.ca/d2l/home/331954)
+- 0600 [Comp 1151](https://learn.georgebrown.ca/d2l/home/335101)
+- 0900 [Math 1162](https://learn.georgebrown.ca/d2l/home/331954)
 Thursday
-- 0700 [Math 1162] (https://learn.georgebrown.ca/d2l/home/331954)
+- 0700 [Math 1162](https://learn.georgebrown.ca/d2l/home/331954)
 - 1200 [Comp1234](https://learn.georgebrown.ca/d2l/home/342901)
 Friday
 -0700 [Comp1236](https://learn.georgebrown.ca/d2l/home/337951)
