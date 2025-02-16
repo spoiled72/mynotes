@@ -13,6 +13,7 @@
 - 1300 [Comp1238 - Data Management](https://learn.georgebrown.ca/d2l/le/content/334969/Home)
 - 1500 [Comp 1151 - IT Essentials](https://learn.georgebrown.ca/d2l/le/content/335101/Home)
 ### Wednesday
+<!-- too early-->
 - 0600 [Comp 1151 - IT Essentials](https://learn.georgebrown.ca/d2l/le/content/335101/Home)
 - 0900 [Math 1162](https://learn.georgebrown.ca/d2l/le/content/331954/Home)
 ### Thursday
