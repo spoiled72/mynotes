@@ -1,4 +1,4 @@
-# mynotes
+jk# mynotes
 ## Links
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
@@ -22,3 +22,27 @@
 ### Friday
 - 0700 [Comp1236 - Fund of Comp Logic](https://learn.georgebrown.ca/d2l/le/content/337951/Home)
 - 1200 [comp1238 - Data Management](https://learn.georgebrown.ca/d2l/le/content/334969/Home)
+
+## My Schecule
+Winter 2026
+### Monday
+<!-- too early-->
+- 0500 Comp 3138
+- 0700 Comp Win.Server N/work Infrastruct
+- 1100 Comp 2102 - Wireless Technology Fundamentals
+- 1500 Comp 2156 - Dev Ops for Sys Admin
+### Tuesday
+- 0700 Comp 2141 Community
+  
+- 1200 Enterprise Network and Automation
+### Wednesday
+- 0700 Comp 3061 - Cyber Security Fundamentals
+- 0800 Comp 3061 - Cyber Security Fundamentals
+- 1000 Comp 2102 - Wireless TEchnology Fundamentals
+- 1300 Comp 2156 - Dev Ops for Sys Admin
+### Thursday
+- 0700 Photography
+- 1200 
+### Friday
+- 0700 
+- 1200 
